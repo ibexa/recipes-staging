@@ -5,7 +5,7 @@ Here is the repository for testing `ibexa/*` and `ezsystems/*` packages. In orde
 composer config extra.symfony.endpoint https://flex.ibexa.co.test-t6dnbai-pmv2ynvffpvc4.eu-4.platformsh.site/
 ```
 ## COPYRIGHT
-Copyright (C) 1999-2021 Ibexa AS (formerly eZ Systems AS). All rights reserved.
+Copyright (C) 1999-2024 Ibexa AS (formerly eZ Systems AS). All rights reserved.
 
 ## LICENSE
 This source code is available separately under the following licenses:
